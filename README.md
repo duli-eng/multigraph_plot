@@ -7,9 +7,9 @@ This python code uses the ```python Import``` function to compile a series of pl
       2. Polynomial
       3. The Olympic Rings
       4. Rose Curves
-##### Note:
-      * It is suggested that you open the multigraph.p display in fullscreen
-      * If you choose to rearrange the plot positions in the multigraph.py file, the axis labels may overlap
+            ##### Note:
+                   - It is suggested that you open the multigraph.p display in fullscreen
+                   - If you choose to rearrange the plot positions in the multigraph.py file, the axis labels may overlap
 ### Getting started
   1. Download [Visual Studio Code](https://code.visualstudio.com/download) for macOS or Windows 
   2. Install [Python Interpreter path](https://code.visualstudio.com/docs/python/python-tutorial) 'venv 3.8.X'
