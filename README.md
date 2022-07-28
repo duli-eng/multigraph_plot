@@ -1,7 +1,7 @@
 # multigraph_plot
 
 ### Description
-This python code uses the ```python Import``` function to compile a series of plots in the same folder 
+This python code uses the ```Import``` function to compile a series of plots in the same folder 
 ####  Plots:
       1. Parabola
       2. Polynomial
