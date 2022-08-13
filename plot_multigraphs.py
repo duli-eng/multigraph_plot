@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # plot_multigraphs.py
 
 import matplotlib.pyplot as plt
