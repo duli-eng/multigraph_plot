@@ -1,7 +1,7 @@
 # multigraph_plot
 
 ### Description
-This python code uses the ```Import``` function to compile a series of plot files in the same directory.
+This python code uses the ```Import``` function to compile a series of plot files, and plots all graphs on the same ```Run``` comand.
 ####  Plots:
       1. Parabola
       2. Polynomial
@@ -9,7 +9,8 @@ This python code uses the ```Import``` function to compile a series of plot file
       4. Rose Curves
 ##### Note:
       - It is suggested that you open the multigraph.py display in fullscreen
-      - If you choose to rearrange the plot positions in the multigraph.py file, the axis labels may overlap
+      - If you choose to rearrange the plot positions in the multigraph.py file
+      the axis labels may overlap
 ### Getting started
   1. Download [Visual Studio Code](https://code.visualstudio.com/download) for macOS or Windows
   2. Install [Python Interpreter path](https://code.visualstudio.com/docs/python/python-tutorial) 'venv 3.8.X'
